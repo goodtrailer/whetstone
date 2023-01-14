@@ -3,7 +3,10 @@
 
 Whetstone comes in an empty parent project containing two modules: the `whetstone-framework` library, and an example `whetstone-app` implementation. The example app targets the second half of Larson and Boswell's [*Big Ideas Math: Integrated Mathematics I*](https://bim.easyaccessmaterials.com/index.php?location_user=im).
 
-Whetstone is built with and requires Java SE 17 or higher.
+
+## running/consuming
+
+Whetstone builds can be found on this repository's [Releases](https://github.com/goodtrailer/whetstone/releases) page. In order to run `whetstone-app` or consume `whetstone-framework`, a Java SE 17 or higher installation is required.
 
 ## building
 

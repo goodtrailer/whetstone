@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>goodtrailer</groupId>
     <artifactId>whetstone</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>2023.113.0-RELEASE</version>
     <packaging>pom</packaging>
     <name>whetstone</name>
     <url>https://github.com/goodtrailer/whetstone</url>

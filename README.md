@@ -3,9 +3,11 @@
 
 Whetstone comes in an empty parent project containing two modules: the `whetstone-framework` library, and an example `whetstone-app` implementation. The example app targets the second half of Larson and Boswell's [*Big Ideas Math: Integrated Mathematics I*](https://bim.easyaccessmaterials.com/index.php?location_user=im).
 
+Whetstone is built with and requires Java SE 17 or higher.
+
 ## building
 
-Whetstone requires [Apache Maven](https://maven.apache.org/) to be built. Once installed, simply run the following command in the root directory:
+Whetstone uses the build tool and package manager [Apache Maven](https://maven.apache.org/). Once installed, simply run the following command in the root directory:
 ```
 mvn package
 ```

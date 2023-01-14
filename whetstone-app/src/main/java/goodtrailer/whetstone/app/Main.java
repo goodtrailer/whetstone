@@ -25,7 +25,7 @@ import goodtrailer.whetstone.framework.util.IResourceUtils;
 
 public class Main
 {
-    public static final String NAME = "QuizGen";
+    public static final String NAME = "whetstone-app: Larson, Boswell - Big Ideas Math: Integrated Mathematics I";
 
     public static final float FONT_SIZE = 18.f;
     public static final FontUIResource UI_FONT;
